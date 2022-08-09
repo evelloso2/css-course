@@ -21,7 +21,6 @@ p{
 }
 
 section {
-
     float: left;
     box-sizing: border-box;
 }
@@ -48,7 +47,7 @@ div{
 }
 
 #tit2 {
-    background-color: #ff0000;
+    background-color: #bb7722;
 }
 
 #tit3 {
