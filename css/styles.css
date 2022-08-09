@@ -9,15 +9,6 @@ body{
     
 }
 
-.titulo {
-    position: relative;
-    float: right;
-    width: 100px;
-    text-align: center;
-    border: solid 1px;
-    font-size: 1.25em;
-}
-
 h1{
     text-align: center;
     margin: 30px;
@@ -41,15 +32,26 @@ div{
     background-color: darkgray;
 }
 
-#sec1 {
+.titulo {
+    position: relative;
+    float: right;
+    width: 100px;
+    text-align: center;
+    border: solid 1px;
+    border-top: 0cm;
+    border-right: 0ch;
+    font-size: 1.25em;
+}
+
+#tit1 {
     background-color: #ffe6b5;
 }
 
-#sec2 {
+#tit2 {
     background-color: #ff0000;
 }
 
-#sec3 {
+#tit3 {
     background-color: #ffaaaa;
 }
 
